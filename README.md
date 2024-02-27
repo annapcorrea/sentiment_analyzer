@@ -1,5 +1,3 @@
-# sentiment analyzer
-
 # Sentiment Analyzer 
 This sentiment analyzer is intended to be used by individuals who would like to partake into sentiment analysis from a csv file. To easier usage, it uses functions which facilitates in knowing where to change the code to your own data. It reads one column of a dataset, labels the data as negative (-1), neutral (0), or positive (1), then conducts basic analysis (a bar graph and counting how many times a the labels appear in the data). More features may be added later. 
 
