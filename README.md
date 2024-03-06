@@ -8,7 +8,7 @@ The intention of this code is to teach people with no background in programming 
 To run the program you need to install Python on your device, [this video](https://drive.google.com/file/d/1OjkpXE75umB3emWzfELojzxcUQ4R9uC7/view?usp=drive_link) will walk you through the process and ensure pip is installed successfully. After installing python, you need to install a couple of libraries inside of python, [this video](https://drive.google.com/file/d/1EMctNjDmhGbm0DLDBmUB0nbd6buY7r9T/view?usp=drive_link) contains all the information regarding those. 
 
 ## Tutorial
-The [tutorial](https://drive.google.com/file/d/1-_4L7ftjKDvldY99Z6zklQArWJiHAidg/view?usp=drive_link) walks you through the process of writing the code, providing tips in how to approach each block of code. 
+The [tutorial](https://drive.google.com/file/d/1-_4L7ftjKDvldY99Z6zklQArWJiHAidg/view?usp=drive_link) walks you through the process of writing the code for the file "Updated_Code", providing tips in how to approach each block of code. To understand how to use the "Code_with_Context," watch the following [tutorial](https://drive.google.com/file/d/1sOTwddOL_G39BqsDp5_Us1pAN8bQ-tUa/view?usp=sharing). 
 
 ## Contact 
 For any questions or problems on the code, do not hesistate in contating me at apereiracorrea@mail.valenciacollege.edu.
